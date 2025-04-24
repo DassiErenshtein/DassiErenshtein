@@ -9,7 +9,7 @@ With strong technical expertise, excellent interpersonal skills, and full dedica
 Server side: 3-layer architecture with dependency injection, calculated fields.  
 Client side: Version control with Git, use of FormModules, dynamic form.
 
-• Apartment Rental Project E2E in Node.js & React.js & MongoDB –   
+• [Vacation apartment rentals](https://github.com/DassiErenshtein/Vacation-apartment-rentals.git) E2E in Node.js & React.js & MongoDB –   
 Server side: Relationships between models, token encryption. ␣␣  
 Client side: Generic components and use of middlewares.
 
