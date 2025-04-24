@@ -1,6 +1,5 @@
 # Hadasa Erenshtein
 ## 🌟 About Me
-🌟 About Me
 Hi, I'm Hadasa Erenshtein, a passionate Fullstack Developer with a strong logical mindset, exceptional self-learning ability, and quick analytical thinking.
 I take full responsibility for my work, stay highly motivated to complete every task with excellence, and thrive when facing complex challenges—even under pressure.
 I value teamwork and naturally create a collaborative and supportive environment.
