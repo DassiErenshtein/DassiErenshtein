@@ -1,14 +1,14 @@
-Hi 👋, I'm Hadasa Erenshtein
-A passionate Full Stack Developer with expertise in C# and Angular.
-Feigi-Steinhuas
+#Hadasa Erenshtein
+##🌟 About Me
+I am aFullstack developer with strong logical thinking, excellent self-learning skills, and quick analysis and understanding. 
+I’m responsible, highly motivated to get the job done, and able to handle complex challenges even under pressure. 
+I value teamwork and know how to create a collaborative atmosphere. 
+I bring strong professional abilities, great interpersonal skills, and full dedication to every task — always aiming for top results.
 
-🔭 I’m currently working as a Full Stack Developer specializing in C#.
+##🛠️ Languages and Tools
+C C++ C# .NET Python Java Node.js Angular React JavaScript HTML5 CSS3 MySQL MongoDB SQLServer Git Linux Windows
 
-🌱 I’m also learning advanced techniques, exploring different programming languages, and contributing to open source projects.
+##📬 Contact Me
+📧 Email: hadasa2115@gmail.com
 
-👯 I’m looking to collaborate on innovative projects that improve user experience.
-
-📫 You can contact me via email: feigi7063@gmail.com
-
-Languages and Tools:
-C# angular sql-server react js jquery css3 .net core html5 typescript nodejs java mongodb python git .net framework postgresql github figma mysql bitbucket
+Feel free to check out my repositories for a closer look at my work!
