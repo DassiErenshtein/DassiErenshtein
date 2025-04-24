@@ -1,9 +1,19 @@
 # Hadasa Erenshtein
 ## 🌟 About Me
-I am aFullstack developer with strong logical thinking, excellent self-learning skills, and quick analysis and understanding. 
-I’m responsible, highly motivated to get the job done, and able to handle complex challenges even under pressure. 
-I value teamwork and know how to create a collaborative atmosphere. 
-I bring strong professional abilities, great interpersonal skills, and full dedication to every task — always aiming for top results.
+🌟 About Me
+Hi, I'm Hadasa Erenshtein, a passionate Fullstack Developer with a strong logical mindset, exceptional self-learning ability, and quick analytical thinking.
+I take full responsibility for my work, stay highly motivated to complete every task with excellence, and thrive when facing complex challenges—even under pressure.
+I value teamwork and naturally create a collaborative and supportive environment.
+With strong technical expertise, excellent interpersonal skills, and full dedication to every project, I consistently strive for outstanding results.
+## 📁 Featured Projects
+• [Patio furniture project](https://github.com/DassiErenshtein/patio_furniture)- E2E project in in SQL & C# & Angular. 
+Server side: 3-layer architecture with dependency injection, calculated fields.
+Client side: Version control with Git, use of FormModules, dynamic form.
+• Apartment Rental Project E2E in Node.js & React.js & MongoDB –
+Server side: Relationships between models, token encryption.
+Client side: Generic components and use of middlewares.
+
+
 
 ## 🛠️ Languages and Tools
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
