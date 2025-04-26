@@ -22,7 +22,5 @@ Client side: Generic components and use of middlewares.
  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ## 📬 Contact Me
-📧 Email: [hadasa2115@gmail.com](mailto:hadasa2115@gmail.com)
-
-
+📧 Email: [שלח לי אימייל](mailto:hadasa2115@gmail.com?subject=Contact&body=Hello%20Dassi)
 Feel free to check out my repositories for a closer look at my work!
