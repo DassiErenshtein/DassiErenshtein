@@ -6,7 +6,7 @@ I value teamwork and naturally create a collaborative and supportive environment
 With strong technical expertise, excellent interpersonal skills, and full dedication to every project, I consistently strive for outstanding results.
 ## 📁 Featured Projects
 • [Patio furniture project](https://github.com/DassiErenshtein/patio_furniture)- E2E project in SQL & C# & Angular.  
-Server side: 3-layer architecture with dependency injection, calculated fields.  
+Server side: 3-NTier architecture with dependency injection, calculated fields.  
 Client side: Version control with Git, use of FormModules, dynamic form.
 
 • [Vacation apartment rentals](https://github.com/DassiErenshtein/Vacation-apartment-rentals.git) E2E in Node.js & React.js & MongoDB –   
